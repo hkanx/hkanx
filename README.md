@@ -10,7 +10,7 @@
 
 🌱 I’m interested in learning more about AI, machine learning, data science, and design! 
 
-⚡ Just updated lots of new and old projects into my github <3 hope you enjoy! :DD
+⚡ Uploading new and old projects into my github <3 hope you enjoy! :DD
 
 -----
 
