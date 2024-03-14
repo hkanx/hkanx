@@ -21,7 +21,7 @@
 ### Connect with me:
 📫 Email: hkang02@berkeley.edu 
 
-💬 Linkedin: [linkedin.com/in/danica-t](https://www.linkedin.com/in/hannah-kangg/)
+💬 Linkedin: https://www.linkedin.com/in/hannah-kangg/
 
 <!--
 **hkanx/hkanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
