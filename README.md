@@ -1,12 +1,6 @@
 ### Hi there! I'm Hannah 👋
 
-💬 btw: many of my personal projects, implemented from little to no starter code, including machine learning, housing classification, scheme interpreter, autocomplete game, 2048, word history, Build Your Own World, the snake game are all in my private repo as required by my university. I can give access upon request for potential employers, please email me at hkang02@berkeley.edu 
-
------
-
-``` pronouns = "she/her/hers" ```
-
-🔭 I’m currently an undergraduate student at UC Berkeley, studying Data Science 
+📚 I’m currently an undergraduate student at UC Berkeley, studying Data Science 
 
 🌱 I’m interested in learning more about AI, machine learning, data science! 
 
