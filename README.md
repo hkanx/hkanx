@@ -1,8 +1,8 @@
-### Hi there! I'm Hannah 👋
+### Hey, I'm Hannah 👋
 
-📚 I’m currently an undergraduate student at UC Berkeley, studying Data Science 
+- I’m currently an undergraduate student at UC Berkeley, studying Data Science 
 
-🌱 I’m interested in learning more about AI, machine learning, data science! 
+- I’m interested in learning more about AI, machine learning, data science! 
 
 -----
 
