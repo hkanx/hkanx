@@ -1,6 +1,6 @@
 ### Hey, I'm Hannah 👋
 
-- I’m currently an undergraduate student at UC Berkeley, studying Data Science 
+- I graduated from UC Berkeley, majoring in Data Science. 
 
 - I’m interested in learning more about AI, machine learning, data science! 
 
