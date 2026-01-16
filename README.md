@@ -5,10 +5,6 @@
 - I’m interested in learning more about AI, machine learning, data science! 
 
 -----
-
-### Connect with me:
-📫 Email: hkang02@berkeley.edu 
-
 <!--
 **hkanx/hkanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
