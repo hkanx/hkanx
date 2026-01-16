@@ -9,8 +9,6 @@
 ### Connect with me:
 📫 Email: hkang02@berkeley.edu 
 
-💬 Linkedin: https://www.linkedin.com/in/hannah-kangg/
-
 <!--
 **hkanx/hkanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
