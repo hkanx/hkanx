@@ -1,8 +1,9 @@
 ### Hey, I'm Hannah 👋
 
-- I graduated from UC Berkeley, majoring in Data Science. 
+UC Berkeley Data Science alum in the SF Bay Area.
 
-- I’m interested in learning more about AI, machine learning, data science! 
+#### Interests
+AI agents, applied ML, and human-centered data products.
 
 -----
 <!--
